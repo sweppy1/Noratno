@@ -5,4 +5,5 @@ b = 5
 print(a-b)
 
 c = 50
+c = c - a *b
 
